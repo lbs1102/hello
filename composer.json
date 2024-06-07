@@ -1,0 +1,15 @@
+{
+    "name": "leotest/hello",
+    "autoload": {
+        "psr-4": {
+            "Leotest\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lbs1102",
+            "email": "tff9276z@gmail.com"
+        }
+    ],
+    "require": {}
+}
